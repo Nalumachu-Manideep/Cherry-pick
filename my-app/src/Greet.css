@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(139, 198, 235);
+
+}
+#container{
+    margin: 10px;
+    
+}
+label{
+    color:rgb(8, 28, 244);
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+h3{
+    color: white;
+}
+span{
+    color: rgba(231, 17, 195, 0.528);
+}
+button{
+    border: 2px solid blue;
+}
+select{
+    border: 2px solid green;
+}
