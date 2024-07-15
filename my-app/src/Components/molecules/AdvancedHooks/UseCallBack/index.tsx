@@ -12,8 +12,6 @@ export const UseCallback=()=>{
     const getItems= useCallback  ( () => {
         return [number,number+1,number+2]
     },[number]);
-
-    
     
     const theme = {
             backgroundColor:dark ? '#333' : '#FFF',
